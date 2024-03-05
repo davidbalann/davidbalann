@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @davidbalann
+-    I am currently a Computer Science Student At Queen's University in Kingston, Canada
 - 👀 I’m interested in Robotics, Coding, AI and IOT
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on beginner projects with the guidance of other people
